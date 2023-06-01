@@ -1,0 +1,12 @@
+// GITHUB //
+
+- [ ] Créer le repo
+- [ ] Inviter les membres
+- [ ] Git clone puis push un fichier même vide
+- [ ] Les autres membres clonent le repo et pull
+- [ ] Tout le monde créer une branche avec git checkout -b Prenom
+- [ ] Créer un fichier depuis ma branche : NomPrenom.txt et le push avec git push —set-upstream origin Prenom
+- [ ] Git merge depuis l’interface GitHub: pull requests à côté de issues; cliquer sur new pull request une personne; compare changes : deuxième champs sélectionne ma branche et garder le premier champs branch master puis faire un create pull request (description de la pull request) et cliquer sur merge 
+- [ ] Normalement une branche par tache exemple user informations 
+- [ ] Git switch/checkout master et git pull
+- [ ] Chacun modifie le fichier de quelqu’un 
